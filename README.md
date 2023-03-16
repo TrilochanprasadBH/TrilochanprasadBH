@@ -35,13 +35,13 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
-
+<!-- 
 <div display="flex" justify-content="center" align-items="center">
   <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakshith027&theme=dark&show_icons=true&locale=en" alt="yakshith027" /></p>
   <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakshith027&theme=dark" alt="yakshith027" /></p>
 
 </div>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakshith027&show_icons=true&locale=en&layout=compact&theme=dark" alt="yakshith027" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakshith027&show_icons=true&locale=en&layout=compact&theme=dark" alt="yakshith027" /></p> -->
 
 
 
