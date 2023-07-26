@@ -117,7 +117,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrilochanprasadBH&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="trilochan"/></p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TrilochanprasadBH8&show_icons=true&&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Trilochan"/></p></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TrilochanprasadBH&show_icons=true&&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Trilochan"/></p></a> 
 <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TrilochanprasadBH&theme=react-dark&hide_border=true" />
   </a>
