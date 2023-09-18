@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1V-fCYnoEg9JownXDlnOQHqfcVAbybDip/view)
 
-- 👨🏻‍🔧 Want to know more about me? Checkout my https://trilochanprasadbh.github.io/
+- 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio] (https://trilochanprasadbh.github.io/)
 
 - ⚡ Fun fact Crazy for coding
   <br>
