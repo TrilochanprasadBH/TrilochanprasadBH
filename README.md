@@ -42,7 +42,7 @@
   </a>
   </a>
 <a href="https://www.linkedin.com/in/trilochanprasad-b-hilli-7a1871106/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trilochan" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/trilochanprasadbh/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trilochan" height="30" width="40" />
   </a>
   <a title="tptrilochanprasad@gmail.com" href="mailto:tptrilochanprasad@gmail.com">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="chakrabortyrishav048@gmail.com"  height="30" width="32"/>
