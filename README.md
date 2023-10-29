@@ -53,10 +53,9 @@
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<br />
-<img src="./grid-snake.svg" />
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+
 
 <!-- Tech Stack Section  -->
 
