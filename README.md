@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-Full-stack engineer building **scalable, production-grade web systems** end-to-end — from architecture and development to deployment and iteration. Specialized in designing and shipping **SaaS products** that leverage data and AI to drive user outcomes.
+Full-stack engineer building **scalable, production-grade web systems** end-to-end — from architecture and development to deployment and iteration. Specialized in designing and shipping **SaaS products** with advanced AI/ML capabilities and vector-based retrieval systems.
 
-**Core Philosophy:** Complete ownership across product design, engineering, infrastructure, and distribution. Focused on clean architecture, performance optimization, and solving entire workflows—not just isolated features.
+**Core Philosophy:** Complete ownership across product design, engineering, infrastructure, and distribution. Focused on clean architecture, performance optimization, and solving entire workflows—integrating cutting-edge AI techniques like RAG, semantic search, and vector embeddings.
 
 ---
 
@@ -41,36 +41,38 @@ Architected and delivered features across **4+ international SaaS products**, co
 ### **AttemptIQ** — AI-Powered UPSC Performance Analytics
 *Full-stack SaaS | Led end-to-end development*
 
-Diagnostic analytics platform analyzing real exam performance signals to generate actionable readiness insights.
+Diagnostic analytics platform analyzing real exam performance signals to generate actionable readiness insights using advanced semantic search and vector embeddings.
 
 **Impact & Features:**
 - **Performance Metrics:** 2,500+ users, 15,000+ exam attempts analyzed
 - Diagnostic analytics dashboard with deep performance breakdown
-- Pattern-based mistake detection & consistency tracking
-- Readiness scoring (proprietary algorithm)
+- Pattern-based mistake detection & consistency tracking using RAG-powered insights
+- Readiness scoring (proprietary algorithm with semantic analysis)
 - Mobile-optimized real-time insights dashboard
 - 98% uptime SLA maintained
+- Vector-based question similarity and recommendation engine
 
-**Tech:** React, Node.js, Express, MongoDB, Chart.js, AWS
+**Tech:** React, Node.js, Express, MongoDB, PostgreSQL, pgVector, LangChain, Chart.js, AWS, OpenAI API
 
 ---
 
 ### **ScoreResume** — AI Career Intelligence Platform
 *Full-stack SaaS | Product design through deployment*
 
-Transforms resumes into measurable outcomes with AI-powered insights and automation.
+Transforms resumes into measurable outcomes with AI-powered insights, semantic search, and intelligent document analysis using retrieval-augmented generation.
 
 **Impact & Features:**
 - **User Base:** 8,000+ users | **Processing Capacity:** 50,000+ resume analyses
-- ATS score analysis & resume optimization recommendations
-- Resume ↔ Job Description matching with gap identification
+- ATS score analysis & resume optimization recommendations powered by LangChain
+- Resume ↔ Job Description matching with gap identification using RAG and vector embeddings
 - AI-powered technical & behavioral interview simulation (10+ interview types)
 - Resume-to-portfolio website generation
 - Job application tracking system with analytics
-- Skill-level tracking with performance feedback loops
+- Skill-level tracking with performance feedback loops using semantic search
 - Company culture-fit assessment tool
+- Intelligent document chunking and retrieval system with pgVector
 
-**Tech:** Next.js, React, Node.js, MongoDB, OpenAI API, Stripe (payments), PostgreSQL
+**Tech:** Next.js, React, Node.js, MongoDB, PostgreSQL, pgVector, LangChain, RAG, OpenAI API, Stripe (payments)
 
 ---
 
@@ -89,12 +91,16 @@ Transforms resumes into measurable outcomes with AI-powered insights and automat
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-### **Backend**
+### **Backend & AI**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgVector](https://img.shields.io/badge/pgVector-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Systems-FF6B35?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **Tools & Deployment**
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -136,9 +142,11 @@ Transforms resumes into measurable outcomes with AI-powered insights and automat
 ## 🎓 Key Competencies
 
 - **Full Stack Development:** Architecture, design, and deployment of production SaaS applications
+- **AI & Machine Learning:** LangChain, RAG systems, vector embeddings, semantic search, OpenAI integration
+- **Vector Databases:** pgVector for similarity search and semantic retrieval
 - **Frontend:** React, Next.js, modern state management, responsive design, performance optimization
 - **Backend:** Node.js, Express, REST APIs, database design, system scalability
-- **Database:** MongoDB, PostgreSQL, schema design, query optimization
+- **Database:** MongoDB, PostgreSQL, vector database design, query optimization
 - **DevOps:** CI/CD pipelines, cloud deployment (Vercel, Netlify, AWS, Heroku)
 - **Product Thinking:** Feature prioritization, user analytics, data-driven decisions
 - **Team Leadership:** Cross-functional collaboration, mentoring junior developers
@@ -178,7 +186,7 @@ Transforms resumes into measurable outcomes with AI-powered insights and automat
 ---
 
 <p align="center">
-  <strong>💡 Open to collaborations on scalable web applications, SaaS product development, and technical mentoring</strong>
+  <strong>💡 Open to collaborations on scalable web applications, SaaS product development, AI-powered systems, and technical mentoring</strong>
 </p>
 
 <p align="center">
