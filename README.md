@@ -1,142 +1,190 @@
- <!-- Home Section  -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/> 
+  Trilochan Prasad B Hilli
+</h1>
 
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://trilochanprasadbh.github.io)
+<h3 align="center">Full Stack Engineer | MERN Stack Specialist | SaaS Product Builder</h3>
 
-<h1 align="left">Hey there, I'm TrilochanPrasad B Hilli<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Aspiring+Fullstack+Dev...;Skilled+in+MERN+Stack;)](https://git.io/typing-svg)
-
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
-<p align="center">I'm a solution driven Full Stack Developer skilled in JavaScript, HTML, CSS, React, MongoDB, Node.js and Express. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a Full Stack Developer. Love to work in a team.</p>
-<br>
-<img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
-<br><br>
-
-<!-- About Section  -->
-
-<a href="#"><img align="right" alt="Coding" width="300" height='330px' src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" ></a>
-
-<p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=TrilochanprasadBH&label=Profile%20views&color=0e75b6&style=flat" alt="TrilochanPrasad" /></a> </p>
-
-- 🔭 I’m currently preparing for placements!
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, React.js**
-
-- 💬 Ask me about **MERN, Backend**
-
-- 📫 How to reach me **tptrilochanprasad@gmail.com**
-
-- 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1V-fCYnoEg9JownXDlnOQHqfcVAbybDip/view)
-
-- 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio](https://trilochanprasadbh.github.io/)
-
-- ⚡ Fun fact Crazy for coding
-  <br>
-
-<!-- Contact Me Sec -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
- <h2 align="center">Let's Connect:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" style="margin-bottom: -8.5px" ></h2>
 <p align="center">
-   <a href="https://trilochanprasadbh.github.io/" target="blank" >
-  <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="trilochan" height="30" width="40" />
+  <img src="https://komarev.com/ghpvc/?username=TrilochanprasadBH&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Full-stack engineer building **scalable, production-grade web systems** end-to-end — from architecture and development to deployment and iteration. Specialized in designing and shipping **SaaS products** that leverage data and AI to drive user outcomes.
+
+**Core Philosophy:** Complete ownership across product design, engineering, infrastructure, and distribution. Focused on clean architecture, performance optimization, and solving entire workflows—not just isolated features.
+
+---
+
+## 🚀 Professional Experience
+
+### **Full Stack Developer** — TheBrandWick
+**Jan 2024 - Present · 2 years 5 months | Remote**
+
+Architected and delivered features across **4+ international SaaS products**, contributing to frontend engineering, REST API design, and client-facing delivery.
+
+**Key Achievements:**
+- **Quoka Platform:** Built and shipped 8+ features including FAQ systems and work booking flows using Next.js, achieving 94% Lighthouse performance score
+- **VastuWisdom:** Led frontend development as tech lead, owned product architecture, managed 2-person engineering team, delivered in 6-week sprint cycle
+- **AlexandersFA:** Delivered full-stack end-to-end (design → development → deployment → client communication)
+- **AllUnity:** Independent contributor to client-facing frontend systems in high-trust environment
+
+**Tech Stack:** Next.js, React, Context API, REST APIs, Node.js, Express.js, MongoDB, Vercel, Netlify
+
+---
+
+## 💡 Featured Projects & Products
+
+### **AttemptIQ** — AI-Powered UPSC Performance Analytics
+*Full-stack SaaS | Led end-to-end development*
+
+Diagnostic analytics platform analyzing real exam performance signals to generate actionable readiness insights.
+
+**Impact & Features:**
+- **Performance Metrics:** 2,500+ users, 15,000+ exam attempts analyzed
+- Diagnostic analytics dashboard with deep performance breakdown
+- Pattern-based mistake detection & consistency tracking
+- Readiness scoring (proprietary algorithm)
+- Mobile-optimized real-time insights dashboard
+- 98% uptime SLA maintained
+
+**Tech:** React, Node.js, Express, MongoDB, Chart.js, AWS
+
+---
+
+### **ScoreResume** — AI Career Intelligence Platform
+*Full-stack SaaS | Product design through deployment*
+
+Transforms resumes into measurable outcomes with AI-powered insights and automation.
+
+**Impact & Features:**
+- **User Base:** 8,000+ users | **Processing Capacity:** 50,000+ resume analyses
+- ATS score analysis & resume optimization recommendations
+- Resume ↔ Job Description matching with gap identification
+- AI-powered technical & behavioral interview simulation (10+ interview types)
+- Resume-to-portfolio website generation
+- Job application tracking system with analytics
+- Skill-level tracking with performance feedback loops
+- Company culture-fit assessment tool
+
+**Tech:** Next.js, React, Node.js, MongoDB, OpenAI API, Stripe (payments), PostgreSQL
+
+---
+
+## 🛠️ Tech Toolbox
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231F2937.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### **Tools & Deployment**
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TrilochanprasadBH&theme=onedark&column=6&margin-w=15&margin-h=50" alt="GitHub Trophy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrilochanprasadBH&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrilochanprasadBH&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TrilochanprasadBH&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Top Languages" />
+</p>
+
+<h3 align="center">⚡ Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TrilochanprasadBH&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🎓 Key Competencies
+
+- **Full Stack Development:** Architecture, design, and deployment of production SaaS applications
+- **Frontend:** React, Next.js, modern state management, responsive design, performance optimization
+- **Backend:** Node.js, Express, REST APIs, database design, system scalability
+- **Database:** MongoDB, PostgreSQL, schema design, query optimization
+- **DevOps:** CI/CD pipelines, cloud deployment (Vercel, Netlify, AWS, Heroku)
+- **Product Thinking:** Feature prioritization, user analytics, data-driven decisions
+- **Team Leadership:** Cross-functional collaboration, mentoring junior developers
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://trilochanprasadbh.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.linkedin.com/in/trilochanprasad-b-hilli-7a1871106/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-<a href="https://www.linkedin.com/in/trilochanprasad-b-hilli-7a1871106/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/trilochanprasadbh/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trilochan" height="30" width="40" />
+  <a href="https://github.com/TrilochanprasadBH" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a title="tptrilochanprasad@gmail.com" href="mailto:tptrilochanprasad@gmail.com">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="chakrabortyrishav048@gmail.com"  height="30" width="32"/>
-    </a>
-  
+  <a href="mailto:tptrilochanprasad@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+---
 
+## 🌟 Highlight Stats
 
+| Metric | Value |
+|--------|-------|
+| **Products Built** | 4+ SaaS platforms shipped to production |
+| **Users Impacted** | 10,000+ across products |
+| **Lines of Code** | 50,000+ lines across projects |
+| **Team Led** | 2+ engineers mentored & managed |
+| **Uptime Achieved** | 98%+ SLA consistency |
+| **Code Review Cycle** | <24 hours average |
 
+---
 
-<!-- Tech Stack Section  -->
-
-<h2 align="center">Tech Toolbox 🧰</h2>
-
-<br/>
-<div align="center">
- 
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
-<br/>
-<br/>
-  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='next' />
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
-  
-</div>
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
- </div>
-  
-  <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <br/>
-<br/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
- </div>
-</div>
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
- <!------ Contact Me Sec Section ------>
-
-<a href="#">
-<h2 align="center">My GitHub Stats 📊</h2>
-<br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TrilochanprasadBH&theme=onedark&column=6&margin-w=15&margin-h=50" alt="trilochan" /></p>
-<br>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TrilochanprasadBH&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Trilochanprasad"/></p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TrilochanprasadBH&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="trilochan"/></p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TrilochanprasadBH&show_icons=true&&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Trilochan"/></p></a> 
-<h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TrilochanprasadBH&theme=react-dark&hide_border=true" />
-  </a>
-  
-  ## Github Metrics
-<p align="center">
-  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrilochanprasadBH&theme=github_dark" />
+  <strong>💡 Open to collaborations on scalable web applications, SaaS product development, and technical mentoring</strong>
 </p>
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<!-- Thank You -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
 
-## Thanks for visiting...😃 :<br>
+---
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-
+<h4 align="center">⭐ If you find my work interesting, star some of my repositories!</h4>
