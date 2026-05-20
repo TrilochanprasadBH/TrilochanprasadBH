@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/> 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/>
   Trilochan Prasad B Hilli
 </h1>
 
-<h3 align="center">Full Stack Engineer | MERN Stack Specialist | AI SaaS Product Builder</h3>
+<h3 align="center">Full Stack Engineer | AI SaaS Builder | Async LLM & RAG Systems Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TrilochanprasadBH&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -13,104 +13,87 @@
 
 ## 👨‍💻 About Me
 
-Full-stack engineer building **scalable, production-grade web systems** end-to-end — from architecture and development to deployment and iteration. Specialized in designing and shipping **SaaS products** with advanced AI/ML capabilities and vector-based retrieval systems.
+Full-stack engineer and solo SaaS builder specializing in **AI-powered systems and end-to-end product delivery**. Shipped 2 production SaaS platforms independently — from architecture to deployment — with real users and revenue. Innovates with async LLM pipelines, RAG systems, and robust multi-tenant infrastructure. Led engineering for 4 international clients (EU, UK, US) with ownership far above traditional developer roles.
 
-**Core Philosophy:** Complete ownership across product design, engineering, infrastructure, and distribution. Focused on clean architecture, performance optimization, and solving entire workflows—integrating cutting-edge AI techniques like RAG, semantic search, and vector embeddings.
-
----
-
-## 🚀 Professional Experience
-
-### **Full Stack Developer** — TheBrandWick
-**Jan 2024 - Present · 2 years 5 months | Remote**
-
-Architected and delivered features across **4+ international SaaS products**, contributing to frontend engineering, REST API design, and client-facing delivery.
-
-**Key Achievements:**
-- **Quoka Platform:** Built and shipped 8+ features including FAQ systems and work booking flows using Next.js, achieving 94% Lighthouse performance score
-- **VastuWisdom:** Led frontend development as tech lead, owned product architecture, managed 2-person engineering team, delivered in 6-week sprint cycle
-- **AlexandersFA:** Delivered full-stack end-to-end (design → development → deployment → client communication)
-- **AllUnity:** Independent contributor to client-facing frontend systems in high-trust environment
-
-**Tech Stack:** Next.js, React, Context API, REST APIs, Node.js, Express.js, MongoDB, Vercel, Netlify
+**Core Philosophy:** Complete accountability across product, engineering, infra & distribution. My focus: clean architecture, performance, solving entire workflows, and direct client outcomes.
 
 ---
 
-## 💡 Featured Projects & Products
+## 🚀 Projects
 
-### **AttemptIQ** — AI-Powered UPSC Performance Analytics
-*Full-stack SaaS | Led end-to-end development*
+### **SCORERESUME** — AI Career Intelligence SaaS
+_Solo-built | Production SaaS_
 
-Diagnostic analytics platform analyzing real exam performance signals to generate actionable readiness insights using advanced semantic search and vector embeddings.
+- AI-powered platform transforming resumes into outcomes: ATS readiness, interview simulation, job-fit intelligence
+- Engineered async AI pipelines (BullMQ + Redis): prevents LLM timeout, robust retry & dead-letter handling
+- Built RAG system (pgvector, LangChain + Gemini) for multidimensional scoring and semantic resume↔JD matching
+- Multi-tenant PostgreSQL schema with per-user data isolation, free/paid tier gating
+- Payment: DodoPayments with webhook signature validation and idempotency
+- Infra: Hetzner VPS, CI/CD, Cloudflare CDN, Sentry + PostHog monitoring
+- **Results:** 18,000+ organic pageviews, 300+ free users, 25+ paid, sub-200ms APIs, 99%+ uptime
 
-**Impact & Features:**
-- **Performance Metrics:** 2,500+ users, 15,000+ exam attempts analyzed
-- Diagnostic analytics dashboard with deep performance breakdown
-- Pattern-based mistake detection & consistency tracking using RAG-powered insights
-- Readiness scoring (proprietary algorithm with semantic analysis)
-- Mobile-optimized real-time insights dashboard
-- 98% uptime SLA maintained
-- Vector-based question similarity and recommendation engine
+### **ATTEMPTIQ** — UPSC Diagnostic Analytics SaaS
+_Founder & Lead Engineer | Production SaaS_
 
-**Tech:** React, Node.js, Express, MongoDB, PostgreSQL, pgVector, LangChain, Chart.js, AWS, OpenAI API
+- Converts mock exam results into actionable analytics for UPSC aspirants
+- 23-table and 5-matview PostgreSQL schema: tracks question-level mastery, velocity, fatigue
+- Built async AI report pipeline (BullMQ) for non-blocking, on-demand LLM insights
+- RAG-driven analytics: vector-embedded history, contextualized improvements (pgvector)
+- Tracks psychological performance: fatigue, traps, confidence decay
+- Multi-tenant, JWT-auth, rate limited, tenant isolation for scale
+- **Impact:** 12,000+ organic pageviews, 4,500+ Qs solved, 15+ paid users, 99%+ uptime
 
 ---
 
-### **ScoreResume** — AI Career Intelligence Platform
-*Full-stack SaaS | Product design through deployment*
+## 🏢 Professional Experience
 
-Transforms resumes into measurable outcomes with AI-powered insights, semantic search, and intelligent document analysis using retrieval-augmented generation.
+### **Full Stack Developer — TheBrandwick.com**
+_Aug 2024 – Present · Bengaluru (Remote/Hybrid)_
 
-**Impact & Features:**
-- **User Base:** 8,000+ users | **Processing Capacity:** 50,000+ resume analyses
-- ATS score analysis & resume optimization recommendations powered by LangChain
-- Resume ↔ Job Description matching with gap identification using RAG and vector embeddings
-- AI-powered technical & behavioral interview simulation (10+ interview types)
-- Resume-to-portfolio website generation
-- Job application tracking system with analytics
-- Skill-level tracking with performance feedback loops using semantic search
-- Company culture-fit assessment tool
-- Intelligent document chunking and retrieval system with pgVector
-
-**Tech:** Next.js, React, Node.js, MongoDB, PostgreSQL, pgVector, LangChain, RAG, OpenAI API, Stripe (payments)
+- Delivered across four global clients (EU, UK, US), leading sprint planning, client engagement, and full-stack execution
+- Built for **Quoka** (UK aggregator): Booking/FAQ (Next.js + REST). 90+ Web Vitals
+- Led **VastuWisdom**: Product architecture, engineering decisions, mentored 2 engineers
+- Owned **AlexandersFA** (mortgage/tax): design→deployment, 95+ SEO, +35% retention
+- Developed frontend for **AllUnity** (EU stablecoin): +45% conversion in client-facing role
 
 ---
 
 ## 🛠️ Tech Toolbox
 
 ### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-231F20?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231F2937.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-### **Backend & AI**
+### **Backend/Infra & AI**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgVector](https://img.shields.io/badge/pgVector-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-EF4743?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-1749FF?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Systems-FF6B35?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-211C1C?style=for-the-badge)
 
-### **Tools & Deployment**
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### **Infrastructure, Auth & Monitoring**
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Hetzner](https://img.shields.io/badge/Hetzner-E40045?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-343434?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![DodoPayments](https://img.shields.io/badge/DodoPayments-210C00?style=for-the-badge)
+![Webhook Handling](https://img.shields.io/badge/Webhook_Handling-FF6F00?style=for-the-badge)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge)
+![PostHog](https://img.shields.io/badge/PostHog-FF5733?style=for-the-badge)
+![UptimeRobot](https://img.shields.io/badge/UptimeRobot-4CAF50?style=for-the-badge)
+![NetData](https://img.shields.io/badge/NetData-22225A?style=for-the-badge)
 
 ---
 
@@ -141,15 +124,13 @@ Transforms resumes into measurable outcomes with AI-powered insights, semantic s
 
 ## 🎓 Key Competencies
 
-- **Full Stack Development:** Architecture, design, and deployment of production SaaS applications
-- **AI & Machine Learning:** LangChain, RAG systems, vector embeddings, semantic search, OpenAI integration
-- **Vector Databases:** pgVector for similarity search and semantic retrieval
-- **Frontend:** React, Next.js, modern state management, responsive design, performance optimization
-- **Backend:** Node.js, Express, REST APIs, database design, system scalability
-- **Database:** MongoDB, PostgreSQL, vector database design, query optimization
-- **DevOps:** CI/CD pipelines, cloud deployment (Vercel, Netlify, AWS, Heroku)
-- **Product Thinking:** Feature prioritization, user analytics, data-driven decisions
-- **Team Leadership:** Cross-functional collaboration, mentoring junior developers
+- **Full Stack Delivery:** SaaS architecture, async pipelines, scalable backend & multi-tenant design
+- **AI & GenAI:** LangChain, Gemini AI, RAG, prompt engineering, pgvector, LLM system integration
+- **Frontend:** React, Next.js, ShadCN, TailwindCSS, performance and SEO optimization
+- **Backend:** Node.js, PostgreSQL, Prisma, Redis, REST, async queue infrastructure (BullMQ)
+- **Infra:** CloudOps, Docker, CI/CD, Cloudflare, AWS-S3, Hetzner
+- **Product:** Data-driven prioritization, user analytics, free & paid SaaS monetization
+- **Leadership:** Mentoring, cross-team coordination, direct client communication
 
 ---
 
@@ -176,17 +157,18 @@ Transforms resumes into measurable outcomes with AI-powered insights, semantic s
 
 | Metric | Value |
 |--------|-------|
-| **Products Built** | 4+ SaaS platforms shipped to production |
-| **Users Impacted** | 10,000+ across products |
-| **Lines of Code** | 50,000+ lines across projects |
-| **Team Led** | 2+ engineers mentored & managed |
-| **Uptime Achieved** | 98%+ SLA consistency |
-| **Code Review Cycle** | <24 hours average |
+| **SaaS Products Shipped** | 4+ (production launches) |
+| **Users Impacted** | 10,000+ total across platforms |
+| **APIs Latency** | sub-200ms p95 |
+| **Codebase** | 50,000+ lines across projects |
+| **Retention Boost** | +35% (AlexandersFA) |
+| **Team Led** | 2+ engineers |
+| **Site Uptime** | 99%+ in SaaS prod |
 
 ---
 
 <p align="center">
-  <strong>💡 Open to collaborations on scalable web applications, SaaS product development, AI-powered systems, and technical mentoring</strong>
+  <strong>💡 Open to collaborations on AI SaaS, scalable web apps, async LLM pipelines, and technical mentoring</strong>
 </p>
 
 <p align="center">
