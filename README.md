@@ -22,7 +22,7 @@ Full-stack engineer and solo SaaS builder specializing in **AI-powered systems a
 ## 🚀 Projects
 
 ### **SCORERESUME** — AI Career Intelligence SaaS
-_Solo-built | Production SaaS_
+_Founder & Lead Engineer | Production SaaS_
 
 - AI-powered platform transforming resumes into outcomes: ATS readiness, interview simulation, job-fit intelligence
 - Engineered async AI pipelines (BullMQ + Redis): prevents LLM timeout, robust retry & dead-letter handling
