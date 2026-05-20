@@ -21,7 +21,7 @@ Full-stack engineer and solo SaaS builder specializing in **AI-powered systems a
 
 ## 🚀 Projects
 
-### **SCORERESUME** — AI Career Intelligence SaaS
+### [**SCORERESUME** — AI Career Intelligence SaaS](https://scoreresume.com)
 _Founder & Lead Engineer | Production SaaS_
 
 - AI-powered platform transforming resumes into outcomes: ATS readiness, interview simulation, job-fit intelligence
@@ -32,7 +32,7 @@ _Founder & Lead Engineer | Production SaaS_
 - Infra: Hetzner VPS, CI/CD, Cloudflare CDN, Sentry + PostHog monitoring
 - **Results:** 18,000+ organic pageviews, 300+ free users, 25+ paid, sub-200ms APIs, 99%+ uptime
 
-### **ATTEMPTIQ** — UPSC Diagnostic Analytics SaaS
+### [**ATTEMPTIQ** — UPSC Diagnostic Analytics SaaS](https://attemptiq.com)
 _Founder & Lead Engineer | Production SaaS_
 
 - Converts mock exam results into actionable analytics for UPSC aspirants
