@@ -2,7 +2,7 @@
 
 # Trilochanprasad B Hilli
 
-### Full-stack Engineer · AI-powered SaaS
+### Full-stack Engineer · AI Systems & SaaS Builder
 
 **Bengaluru, India** · Available for collaborations
 
